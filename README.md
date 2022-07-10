@@ -1,9 +1,6 @@
 # Substrate-Barcode-Scanner
 
 
-REIGN is built on Rust with Polkadot and Substrate where blockchains are called Parachains. Polkadot Parachain here from the right is running parallel transactions from all chains in the network at the same time. This allows chain asset exchanges of tokens an account balance this optimizes for scale so for instance the matter of the large amount of metadata blocks. Substrate-based blockchain nodes expose a number of capabilities like networking, consensus, and RPC server for node interactions. This is comparable to Visa benchmarks where Polkadot Parachain is 61% faster, in addition to having forkless and future proof upgrades.
-
-
 QR code feature physical assets here a picture of the product and we can generate a QR code assigned a physical REIGN asset. Blockchain traceability of financial transactions on a secure ledger. Print and adhere label to trace assets, Scan barcodes as items go through the supply chain where RFID tags are read as they arrive to their destination. Allows for industry-wide compliance.
 
 When REIGN wins a slot and runs on Parachain, it will instantatnely activate vesting period for contributer's token addresses, and annual for non-contributers. ICO - Breakdown of all REIGN tokens to be released into circulation on a monthly basis. Percentage of total token supply allocated between Seed, reward (IPO participants), founding team, treasury/reserved, founding team, strategic investors (VC). Year1 includes auction reward, shoppers referral program, and liquidity program. There are 80,000,000 REIGN tokens set aside for rewards on our customized Parachain blockchain aunctions that can be distributed to merchants to reward spending. Industry-leading security protocol that self upgrades. Inter-chain communication makes it easier for changing core rules, adding new functionalities, and repairing states. Nominators stake their REIGN tokens for best returns and vote on changes to the network. On-chain governance is governed by ALL stakeholders connected to the relay chain. Validator Pools with less stake to maximize rewards since each nominator is paid the same reward. Option to compound rewards to sell or reinvest with maximum 64 nominators in each validator pool with 28 day lockup period, and 84 day time limit to claim rewards controlled by the web interface.
@@ -84,8 +81,6 @@ If you want to see the multi-node consensus algorithm in action, refer to
 
 A Substrate project such as this consists of a number of components that are spread across a few
 directories.
-
-![](https://github.com/lucylow/substrate-blockchain-1628382201851/blob/main/polkadot.png)
 
 ### Node
 
